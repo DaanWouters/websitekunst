@@ -1,0 +1,26 @@
+body{
+background-image: url("img/htmlimg.webp");
+background-size: cover;
+background-repeat: no-repeat;
+
+
+}
+
+
+.link {
+float: left;
+text-decoration: none;
+background-color: blueviolet;
+padding: 15px;
+border-radius: 9px;
+color: black;
+width: 150px;
+text-align: center;
+position: relative;
+margin: 23px;
+}
+
+img{
+    float: left;
+}
+
